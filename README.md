@@ -9,7 +9,7 @@ Below is an project overview poster discussing the planning process, coding meth
 </p>
 
 
-# Design
+<h2>Design</h2>
 
 In my application design stages, I created an in-depth flowchart showing all of the steps for each procedure within the main class, as well as a UML diagram to help guide in developing the variables and methods within each class.
 
