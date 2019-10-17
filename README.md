@@ -5,7 +5,7 @@ In the Eclipse IDE, I created an automatic game of UNO using the basic Object-Or
 Below is an project overview poster discussing the planning process, coding methods used, the issued I faced while coding, and how the solutions I used to overcome those problems.
 
 <p align="center">
-	<img src="Poster.png" alt="UNO Game Poster"/>
+	<img src="UNOpng/Poster.png" alt="UNO Game Poster"/>
 </p>
 
 
@@ -15,10 +15,19 @@ In my application design stages, I created an in-depth flowchart showing all of 
 
 <h3>Flowchart<h3>
 <p align="center">
-	<img src="Flowchart.png" alt="UNO Game Flowchart"/>
+	<img src="UNOpng/Flowchart.png" alt="UNO Game Flowchart"/>
 </p>
 
 <h3>UML Diagram<h3>
 <p align="center">
-	<img src="UML.png" alt="UNO Game UML"/>
+	<img src="UNOpng/UML.png" alt="UNO Game UML"/>
+</p>
+
+<h2>Final Product</h2>
+
+This project ended with the full running game being printed out to the console. Each turn the top card, user's hand, and card played were all displayed to make the game flow clear. I also used JavaFX for the user to be able to distinguish the cards easier, rather than trying to interpret R3, GSkip, WD+4, etc.
+
+<h3>Output to Console<h3>
+<p align="center">
+	<img src="UNOpng/FullGame.png" alt="Output to Console"/>
 </p>
