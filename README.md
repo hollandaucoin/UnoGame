@@ -2,7 +2,7 @@
 
 In the Eclipse IDE, I created an automatic game of UNO using the basic Object-Oriented Programming principles, following the standard rules and logistics of the UNO Card Game. This game has 4 hard coded players that are each dealt a hand of 7 cards, runs through the full game, and determines a winner.
 
-Below is an project overview poster discussing the planning process, coding methods used, the issued I faced while coding, and how the solutions I used to overcome those problems.
+Below is an project overview poster discussing the planning process, coding methods used, the issues I faced while coding, and how the solutions I used to overcome those problems.
 
 <p align="center">
 	<img src="UNOpng/Poster.png" alt="UNO Game Poster"/>
