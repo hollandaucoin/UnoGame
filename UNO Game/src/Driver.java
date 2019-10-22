@@ -1,10 +1,5 @@
 import java.util.ArrayList;
 
-// Holland Aucoin
-// December 4, 2018
-// Milestone 6 
-// This is my own work.
-
 public class Driver {
 	public static void main(String[] args) {
 
