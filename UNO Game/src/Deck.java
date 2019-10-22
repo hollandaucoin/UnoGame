@@ -1,11 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-// Holland Aucoin
-// December 4, 2018
-// Milestone 6 - Deck Class
-// This is my own work.
-
 public class Deck {
 
 	private ArrayList<Card> theCards = new ArrayList<Card>();
