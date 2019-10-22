@@ -1,10 +1,5 @@
 import java.util.Random;
 
-// Holland Aucoin
-// December 4, 2018
-// Milestone 6 - Card Class
-// This is my own work.
-
 public class Card {
 
 	public static final String ANSI_RED = "\u001B[31m";
