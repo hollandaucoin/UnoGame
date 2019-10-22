@@ -1,10 +1,5 @@
 import java.util.ArrayList;
 
-// Holland Aucoin
-// December 4, 2018
-// Milestone 6 - Hand Class
-// This is my own work.
-
 public class PlayerHand {
 
 	// CREATE ARRAY LIST FOR PLAYER'S CARDS
