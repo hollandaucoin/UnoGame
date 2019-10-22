@@ -1,11 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-// Holland Aucoin
-// December 4, 2018
-// Milestone 6 - Discard Pile Class
-// This is my own work.
-
 public class DiscardPile {
 
 	// CREATE ARRAY LIST FOR DISCARD PILE
