@@ -35,6 +35,7 @@ public class Deck {
 
 	}
 	
+	// RESTOCK DECK ONCE EMPTY
 	public void restockDeck(DiscardPile dp) {
 		Card top = dp.getTopCard();
 		dp.shuffle();
@@ -44,16 +45,19 @@ public class Deck {
 		}
 	}
 
+	// DEAL TOP CARD, AND REMOVE FROM DECK
 	public Card deal() {
 		Card c = theCards.get(0);
 		theCards.remove(0);
 		return c;
 	}
 	
+	// SHUFFLE DECK
 	public void shuffle() {
 		Collections.shuffle(theCards);
 	}
 	
+	// CHECK IF THE DECK HAS LESS THAN 5 CARDS
 	public boolean isEmpty() {
 		if (theCards.size() <= 5) {
 			return true;

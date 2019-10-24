@@ -43,6 +43,7 @@ public class Card {
 		this.color = color;
 	}
 	
+	// CHANGE COLOR
 	public String changeColor() {
 		String str = "";
 		int newColor = rnd.nextInt(4);
@@ -61,6 +62,7 @@ public class Card {
 		return str;
 	}
 
+	// CHECK IS SEE IF CARD IS MATCH
 	public boolean isMatch(Card c) {
 		if (c.value.equals(this.value))
 			return true;
