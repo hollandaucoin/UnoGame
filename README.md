@@ -1,4 +1,4 @@
-# UNO Game
+# UNO Game - Fall 2018
 
 In the Eclipse IDE, I created an automatic game of UNO using the basic Object-Oriented Programming principles, following the standard rules and logistics of the UNO Card Game. This game has 4 hard coded players that are each dealt a hand of 7 cards, runs through the full game, and determines a winner.
 
